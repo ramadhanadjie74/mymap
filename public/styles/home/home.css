@@ -1,0 +1,93 @@
+ul {
+  list-style: none;
+}
+
+.berita {
+  width: 100%;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  margin-top: 5em;
+  padding: 5em;
+}
+
+.berita .berita-item-box {
+  width: 100%;
+}
+
+.peta {
+  width: 100%;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  margin-top: 2em;
+  padding: 5em;
+}
+
+.laporan {
+  width: 100%;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  margin-top: 2em;
+  padding: 2em 5em 5em;
+  background-color: #62bbb3;
+}
+
+.laporan .form1 {
+  border: solid .1rem oldlace;
+  padding: 1rem;
+}
+
+.laporan .form1 .form-box-l {
+  padding: .5rem;
+  width: 50%;
+}
+
+.laporan .form1 .form-box-r {
+  padding: .5rem;
+  width: 50%;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+}
+
+.laporan .form1 .form-box-r .box-upload {
+  background-color: white;
+  padding: .4em;
+  border-radius: 5px;
+}
+
+.laporan .form1 .form-box-r img {
+  width: 100%;
+  height: 50%;
+  border-radius: 10px;
+}
+
+.laporan .form1 .form-box-r .maps {
+  position: relative;
+}
+
+.laporan .form1 .form-box-r .maps p {
+  position: absolute;
+  top: 50%;
+  left: 30%;
+  background-color: white;
+  border-radius: 10px;
+  padding: .4em;
+}
+
+.laporan .btn {
+  margin-top: 1em;
+  width: 100%;
+  height: 2em;
+}
+
+.laporan .form-box-radio h6 {
+  font-weight: bold;
+}
+
+.laporan .form-box-radio p {
+  color: crimson;
+}
+/*# sourceMappingURL=home.css.map */

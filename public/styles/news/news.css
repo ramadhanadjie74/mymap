@@ -1,0 +1,31 @@
+ul {
+  list-style: none;
+}
+
+.news {
+  width: 100%;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  margin-top: 5em;
+  padding: 5em;
+}
+
+.news .search-field {
+  width: 50%;
+}
+
+.news .berita-item-box1 {
+  margin: 2rem 0 0 0;
+  width: 100%;
+}
+
+.news .berita-item-box2 {
+  margin: 2rem 0 0 0;
+  width: 100%;
+}
+
+.news .btn {
+  width: 20em;
+}
+/*# sourceMappingURL=news.css.map */

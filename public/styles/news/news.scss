@@ -1,0 +1,32 @@
+ul {
+    list-style: none;
+}
+
+.news{
+    width: 100%;
+    height: fit-content;
+    margin-top: 5em;
+    padding: 5em;
+
+    h6{
+        // margin: 5em 0 0;
+    }
+    .search-field{
+        width: 50%;
+    }
+    .berita-item-box1{
+        // justify-items: center;
+        margin: 2rem 0 0 0;
+        width: 100%;
+    }
+
+    .berita-item-box2{
+        // justify-items: center;
+        margin: 2rem 0 0 0;
+        width: 100%;
+    }
+
+    .btn{
+        width: 20em;
+    }
+}

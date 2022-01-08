@@ -1,0 +1,17 @@
+ul {
+  list-style: none;
+}
+
+.about {
+  width: 100%;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  margin-top: 2em;
+  padding: 5em;
+}
+
+.about p {
+  margin-top: 1em;
+}
+/*# sourceMappingURL=about-us.css.map */

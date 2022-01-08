@@ -1,0 +1,87 @@
+ul {
+    list-style: none;
+}
+
+.berita{
+    width: 100%;
+    height: fit-content;
+    margin-top: 5em;
+    padding: 5em;
+
+    .berita-item-box{
+        // justify-items: center;
+        // margin: 2rem 0 0 0;
+        width: 100%;
+    }
+}
+
+.peta {
+    width: 100%;
+    height: fit-content;
+    margin-top: 2em;
+    padding: 5em;
+}
+
+.laporan {
+    width: 100%;
+    height: fit-content;
+    margin-top: 2em;
+    padding: 2em 5em 5em;
+    background-color: #62bbb3;
+
+    .form1 {
+        border: solid .1rem oldlace;
+        padding: 1rem;
+
+        .form-box-l{
+            padding: .5rem;
+            width: 50%;
+            // height: 100%;
+        }
+        .form-box-r{
+            padding: .5rem;
+            width: 50%;
+            height: fit-content;
+            // position: relative;
+            .box-upload{
+                background-color: white;
+                padding: .4em;
+                border-radius: 5px;
+            }
+            img{
+                width: 100%;
+                height: 50%;
+                border-radius: 10px;
+            }
+            .maps{
+                position: relative;
+                p{
+                    position: absolute;
+                    top: 50%;
+                    left: 30%;
+                    background-color: white;
+                    border-radius: 10px;
+                    padding: .4em;
+                }
+            }
+            
+            
+        }
+    }
+    .btn {
+        margin-top: 1em;
+        width: 100%;
+        height: 2em;
+    }
+
+    .form-box-radio{
+        h6{
+            font-weight: bold;
+        }
+        p{
+            color: crimson;
+        }
+    }
+
+}
+
